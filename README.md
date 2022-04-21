@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about android related technology, DSA, ML/AI and flutter
 - 📫 How to reach me: anmoldhiman7111@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Dhiman&theme=nightowl&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-Dhiman&langs_count=8&theme=nightowl&hide=html)
 [![Vansh's github stats](https://github-readme-stats.vercel.app/api?username=Anmol-Dhiman&theme=nightowl)](https://github.com/Anmol-Dhiman/github-readme-stats)
