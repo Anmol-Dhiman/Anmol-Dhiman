@@ -19,10 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sherlockvarm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherlockvarm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anmol dhiman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol dhiman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anmol-7111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol dhiman" height="30" width="40" /></a>
 <a href="https://instagram.com/sherlock_varm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherlock_varm" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anmol_7111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anmol_7111" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anmol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anmol" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/anmoldhiman7111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anmol" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,9 +30,9 @@
 
 [![Anmol's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Anmol-Dhiman&&theme=xcode)](https://github.com/Anmol-Dhiman)
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-dhiman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anmol-dhiman" /></p>
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmol-dhiman&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="anmol-dhiman" /><br></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-dhiman&show_icons=true&locale=en&theme=tokyonight" alt="anmol-dhiman" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-dhiman&show_icons=true&locale=en&theme=tokyonight" alt="anmol-dhiman" /><br></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-dhiman&&theme=tokyonight" alt="anmol-dhiman" /></p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-dhiman&&theme=tokyonight" alt="anmol-dhiman" /></p>
 
