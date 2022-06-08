@@ -34,5 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmol-dhiman&show_icons=true&locale=en&theme=tokyonight" alt="anmol-dhiman" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-dhiman&&theme=tokyonight" alt="anmol-dhiman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmol-dhiman&&theme=tokyonight" alt="anmol-dhiman" /></p>
 
