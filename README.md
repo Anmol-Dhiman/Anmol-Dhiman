@@ -1,8 +1,8 @@
 ### Hello there 👋
 
 - 🔭 I’m Anmol Dhiman.
-- 🎓 Currently, pursuing B.Tech in CSE.
-- 🌱 I’m currently learning Solidity and Blockchain Protocols.
+- 🎓 B.Tech CSE from IIIT Vadodara.
+- 🌱 I’m currently learning Smart Contract Auditing and Blockchain Protocols.
 - 👯 I’m looking to collaborate on Web3 based projects.
 - 🔍 Looking for discussions on Web3 projects on EVM compatible chains.
 - 💻 Working on hackathon projects.
