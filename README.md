@@ -7,3 +7,4 @@
 - 🏛️ Farcaster: [sherlockvarm](https://warpcast.com/sherlockvarm/)
 - 🚪 LinkedIn: [anmol-7111](https://www.linkedin.com/in/anmol-7111/)
 - 📥 ENS: `sherlockvarm.eth`
+- Secondary account : [anmol-dhiman-sherlockvarm](https://github.com/Anmol-Dhiman-SherlockVARM)
