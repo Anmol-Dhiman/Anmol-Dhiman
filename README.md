@@ -1,6 +1,7 @@
 ### Hi there 👋 
 
-- 💻 Previously: Smart Contract Dev and Hacker @ [Kleros](https://kleros.io/)
+- 📖 Web3 Security Research Wrtier [@QuillAudits](https://quillaudits.com/)
+- 💻 Previously: Smart Contract Dev and Hacker [@Kleros](https://kleros.io/)
 - 🧠 Currently focussing on security contests  - Levelling up security skills.
 - 📫 Twitter: [@SherlockVarm](https://x.com/SherlockVarm)
 - 🌱 Lens: [sherlockvarm.lens](https://hey.xyz/u/sherlockvarm)
